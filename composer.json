@@ -1,0 +1,23 @@
+{
+    "name": "grzegorz-jamroz/dotenv",
+    "description": "Utility to load environment variables from .env file.",
+    "authors": [
+        {
+            "name": "Grzegorz Jamróz",
+            "email": "grzegorz.jamrooz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ifrost\\DotEnv\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0",
+        "grzegorz-jamroz/plain-data-transformer": "^0.0.1"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.4",
+        "friendsofphp/php-cs-fixer": "^3.5"
+    }
+}
