@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Ifrost\Common;
+namespace Ifrost;
 
 use PlainDataTransformer\Transform;
 
