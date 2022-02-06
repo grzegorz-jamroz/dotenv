@@ -1,6 +1,6 @@
 {
     "name": "grzegorz-jamroz/dotenv",
-    "description": "Utility to load environment variables from .env file.",
+    "description": "A PHP library for loading environment variables from .env file.",
     "authors": [
         {
             "name": "Grzegorz Jamróz",
@@ -14,7 +14,7 @@
     },
     "require": {
         "php": ">=8.0",
-        "grzegorz-jamroz/plain-data-transformer": "dev-master"
+        "grzegorz-jamroz/plain-data-transformer": "^0.0.2"
     },
     "require-dev": {
         "phpstan/phpstan": "^1.4",

@@ -1,8 +1,13 @@
-# iFrost DotEnv
+<h1 align="center">iFrost DotEnv</h1>
 
-## Description
+<p align="center">
+    <strong>A PHP library for loading environment variables from .env file.</strong>
+</p>
 
-Utility to load environment variables from .env file.
+<p align="center">
+    <img src="https://img.shields.io/badge/php->=8.0-blue?colorB=%238892BF" alt="Code Coverage">  
+    <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square&colorB=darkcyan" alt="Read License">
+</p>
 
 ## Installation
 

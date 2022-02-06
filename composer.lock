@@ -4,28 +4,28 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a9fd2ac3342d57502dba38852dcfbc2f",
+    "content-hash": "7c36debf47896c2849d9ff56b0b917c5",
     "packages": [
         {
             "name": "grzegorz-jamroz/plain-data-transformer",
-            "version": "0.0.1",
+            "version": "0.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/grzegorz-jamroz/plain-data-transformer.git",
-                "reference": "114317280fa175b402e1979a70ccef03d65077b7"
+                "reference": "e467fe82032cc6e2a01ec5ff4503e6aa76c51532"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/grzegorz-jamroz/plain-data-transformer/zipball/114317280fa175b402e1979a70ccef03d65077b7",
-                "reference": "114317280fa175b402e1979a70ccef03d65077b7",
+                "url": "https://api.github.com/repos/grzegorz-jamroz/plain-data-transformer/zipball/e467fe82032cc6e2a01ec5ff4503e6aa76c51532",
+                "reference": "e467fe82032cc6e2a01ec5ff4503e6aa76c51532",
                 "shasum": ""
             },
             "require": {
-                "php": ">=8"
+                "php": ">=7.4"
             },
             "require-dev": {
-                "friendsofphp/php-cs-fixer": "^2.18",
-                "phpstan/phpstan": "^0.12.78"
+                "friendsofphp/php-cs-fixer": "^3.5",
+                "phpstan/phpstan": "^1.4"
             },
             "type": "library",
             "autoload": {
@@ -34,12 +34,12 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "description": "Library allow to transform various data to specific format.",
+            "description": "A PHP library for transforming various data to specific format.",
             "support": {
                 "issues": "https://github.com/grzegorz-jamroz/plain-data-transformer/issues",
-                "source": "https://github.com/grzegorz-jamroz/plain-data-transformer/tree/0.0.1"
+                "source": "https://github.com/grzegorz-jamroz/plain-data-transformer/tree/0.0.2"
             },
-            "time": "2021-03-14T19:51:16+00:00"
+            "time": "2022-02-06T21:44:03+00:00"
         }
     ],
     "packages-dev": [
@@ -552,16 +552,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "1.4.5",
+            "version": "1.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "150d1fbd82fb71ff76b3bd7f6ea6006d89c5f0c3"
+                "reference": "8a7761f1c520e0dad6e04d862fdc697445457cfe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/150d1fbd82fb71ff76b3bd7f6ea6006d89c5f0c3",
-                "reference": "150d1fbd82fb71ff76b3bd7f6ea6006d89c5f0c3",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/8a7761f1c520e0dad6e04d862fdc697445457cfe",
+                "reference": "8a7761f1c520e0dad6e04d862fdc697445457cfe",
                 "shasum": ""
             },
             "require": {
@@ -592,7 +592,7 @@
             "description": "PHPStan - PHP Static Analysis Tool",
             "support": {
                 "issues": "https://github.com/phpstan/phpstan/issues",
-                "source": "https://github.com/phpstan/phpstan/tree/1.4.5"
+                "source": "https://github.com/phpstan/phpstan/tree/1.4.6"
             },
             "funding": [
                 {
@@ -612,7 +612,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-02-02T19:35:10+00:00"
+            "time": "2022-02-06T12:56:13+00:00"
         },
         {
             "name": "psr/cache",
