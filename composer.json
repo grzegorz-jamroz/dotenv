@@ -14,7 +14,7 @@
     },
     "require": {
         "php": ">=8.0",
-        "grzegorz-jamroz/plain-data-transformer": "^0.0.2"
+        "grzegorz-jamroz/plain-data-transformer": "^1.0"
     },
     "require-dev": {
         "phpstan/phpstan": "^1.4",
